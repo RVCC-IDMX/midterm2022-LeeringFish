@@ -1,0 +1,62 @@
+body {
+    background-color: #C9C2AF;
+    font-family: "Open Sans";
+    text-align: center;
+    font-size: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1, h2 {
+    font-family: "Amaranth";
+}
+
+h1 {
+    font-size: 2.5rem;
+}
+
+h2 { 
+    font-size: 2rem;
+}
+
+/* Hero Section */
+
+#hero {
+    
+    margin: 4rem;
+}
+
+/* website examples and footer */
+
+#websites, footer {
+    background-color: #C7323C;
+    border: 1rem solid black;
+    margin: 4rem;
+    padding: 2rem;
+}
+
+/* fictional reviews */
+
+#reviews {
+    border: 0.5rem solid black;
+    margin-bottom: 3rem;
+    padding: 1rem;
+}
+
+#reviews div {
+    margin-bottom: 4rem;
+}
+
+
+/* photos */
+
+img {
+    max-width: 21rem;
+    height:auto;
+    background-color: black;
+}
+
+
+
+
