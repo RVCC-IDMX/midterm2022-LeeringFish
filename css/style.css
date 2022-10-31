@@ -57,6 +57,15 @@ img {
     background-color: black;
 }
 
+/* larger screen size */
+
+@media screen and (min-width: 50em) {
+
+    img {
+        max-width: 27rem;
+    }
+}
+
 
 
 
